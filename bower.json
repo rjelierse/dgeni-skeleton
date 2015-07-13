@@ -1,0 +1,8 @@
+{
+  "name": "dgeni-skeleton",
+  "dependencies": {
+    "lunr.js": "~0.4",
+    "google-code-prettify": "~1.0",
+    "bootstrap": "~3.1"
+  }
+}
